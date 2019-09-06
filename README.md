@@ -1,3 +1,3 @@
 # university-microservice
 
-spring boot ile ögrenci kaydeden microservis çalışması
+spring boot ile ögrenci kayıteden microservis çalışmasıdır.
